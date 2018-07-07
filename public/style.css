@@ -1,0 +1,23 @@
+body{
+  padding-top:80px;
+  word-wrap:break-word;
+
+}
+img{
+  height: 200px;
+}
+
+.icon{
+  border-radius: 146px 146px 146px 146px;
+  width: 200px;
+  border:  4px solid black;
+}
+#back{
+      background color: red ;
+}
+
+.kanye{
+  background-image: url(img/kanyeShrug.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
